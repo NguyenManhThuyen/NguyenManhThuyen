@@ -3,7 +3,18 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-NguyenManhThuyen&color=dc143c&style=flastic)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenManhThuyen&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=NguyenManhThuyen&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=NguyenManhThuyen&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=NguyenManhThuyen&show_icons=true" />
+</picture>
 
 
 
@@ -61,4 +72,3 @@
     </a>
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenmanhthuyen&show_icons=true&locale=en&layout=compact" alt="nguyenmanhthuyen" /></p>
