@@ -32,11 +32,6 @@
     <h1>Hi 👋, I'm Thuyen</h1>
     <h3>Computer Science</h3>
 
-    <img src="https://komarev.com/ghpvc/?username=your-github-NguyenManhThuyen&color=dc143c&style=flastic" />
-
-
-
-
 
 - 🌱 I’m currently learning **React**
 
