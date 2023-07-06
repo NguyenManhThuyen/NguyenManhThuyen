@@ -1,7 +1,38 @@
-<h1 align="center">Hi 👋, I'm Thuyen</h1>
-<h3 align="center">Computer Science</h3>
+<!-- Thẻ style để tùy chỉnh giao diện -->
+<style>
+    /* Căn giữa phần tử */
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    /* Chỉnh màu và font chữ cho tiêu đề */
+    h1 {
+        color: #dc143c;
+        font-family: Arial, sans-serif;
+    }
+    
+    /* Chỉnh màu và font chữ cho phần giới thiệu */
+    h3 {
+        color: #333;
+        font-family: Arial, sans-serif;
+    }
+    
+    /* Thêm đường viền cho hình ảnh */
+    img {
+        border: 1px solid #ccc;
+        border-radius: 50%;
+    }
+</style>
 
-![](https://komarev.com/ghpvc/?username=your-github-NguyenManhThuyen&color=dc143c&style=flastic)
+<!-- Đoạn mã HTML của bạn -->
+<div class="center">
+    <h1>Hi 👋, I'm Thuyen</h1>
+    <h3>Computer Science</h3>
+
+    <img src="https://komarev.com/ghpvc/?username=your-github-NguyenManhThuyen&color=dc143c&style=flastic" />
 
 
 
